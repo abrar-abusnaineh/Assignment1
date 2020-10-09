@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="movies_store">Movies Store</string>
+    <string name="movie_title">Title of movie</string>
+    <string name="year">Year of movie</string>
+    <string name="genre">Genre</string>
+    <string name="search">Search</string>
+</resources>
